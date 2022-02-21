@@ -2,4 +2,4 @@
 $student['naam']='din';
 $student['achternaam']='gosto';
 $student['klas']='1b';
-$student['leeftijd']=17;
+$student['leeftijd']='17';
